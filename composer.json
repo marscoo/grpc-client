@@ -24,7 +24,7 @@
   },
   "replace": { 
     "grpc/grpc": "self.version" 
-  } 
+  },
   "require": {
     "php": ">=7.1",
     "google/protobuf": "^3"
